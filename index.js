@@ -33,9 +33,3 @@ const vm = new Vue ({
   }
 })
 
-
-
-function myfunc() {
-  document.writeln(1);
-} 
-myfunc()
